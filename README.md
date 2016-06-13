@@ -1,6 +1,10 @@
 #to-em
 >Convert pixels to the em unit.
 
+Install:
+`npm install to-em --save`
+
+
 ```
 import em from 'to-em';
 
